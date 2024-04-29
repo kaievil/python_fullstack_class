@@ -1,3 +1,3 @@
 # первый код
-print ('Hello, world')
+print ('Hello, dog')
 #должно работать
