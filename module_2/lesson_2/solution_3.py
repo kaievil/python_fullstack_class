@@ -1,6 +1,4 @@
-print("Введите 3 числа")
-number_1=int(input())
-number_2=int(input())
-number_3=int(input())
-#arfm=(number_1 + number_2 + number_3)/ 3 
-print ("Среднее арифметическое:", (number_1 + number_2 + number_3)/ 3)
+books=int(input ('Количество книг ') )
+stationery=int(input ('Количество канцтоваров ') )
+toys=int(input ('Количество игрушек ') )
+print("Объем товаров:", books*2+stationery*1.5+toys*3, "m^3")
