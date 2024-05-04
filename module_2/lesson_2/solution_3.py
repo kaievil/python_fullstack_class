@@ -1,4 +1,4 @@
-books=int(input ('Количество книг ') )
-stationery=int(input ('Количество канцтоваров ') )
-toys=int(input ('Количество игрушек ') )
-print("Объем товаров:", books*2+stationery*1.5+toys*3, "m^3")
+a: int=int(input ('Количество книг ') )
+b: int=int(input ('Количество канцтоваров ') )
+c: int=int(input ('Количество игрушек ') )
+print("Объем товаров:", a*2+b*1.5+c*3, "m^3")

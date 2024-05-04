@@ -1,2 +1,2 @@
-number=int(input ('Введите число '))
+number=int(input ('Введите строку '))
 print(str(number*2))
